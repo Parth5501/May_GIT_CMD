@@ -1,3 +1,5 @@
 City is the part of state
 Ahmedabad is the city in Gujarat
 There are total 31 cities in gujarat.
+
+AI feature added in the City
